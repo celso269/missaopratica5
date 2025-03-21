@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/next": "^8.0.7",
+    "bootstrap": "^5.3.3",
+    "next": "^15.2.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.0"
+  }
+}
